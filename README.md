@@ -38,15 +38,16 @@ I am a BME graduate student with a background that spans **biomedical engineerin
 |---|---|---|
 | [Digital Entomologist](https://github.com/JananiV3010/digital-entomologist) | Automated taxonomic classification of malaria-vector mosquitoes via deep learning | 99.65% Hamming accuracy · 30× faster training |
 | [Synpipe](https://github.com/JananiV3010/synpipe) | Containerized synapse detection pipeline — Python migration + Docker/Hydra orchestration | 2.43s per volume · reproducible one-click workflow |
-| [ResNet vs ViT](https://github.com/JananiV3010/resnet-vit-analysis) | Benchmarking CNNs vs Vision Transformers on CIFAR-10 for medical imaging insights | ViT + transfer learning: 98.75% vs ResNet: 89.34% |
+| [ResNet vs ViT](https://github.com/JananiV3010/resnet-vit-analysis) | Benchmarking CNNs vs Vision Transformers on CIFAR-10 for medical imaging insights | ViT + transfer learning: 98.75% vs ResNet: 90.48% |
 | [NeRF & Gaussian Splatting](https://github.com/JananiV3010/nerf-gaussian-splatting) | 3D scene reconstruction pipeline — COLMAP, nerfstudio, headless GPU environments | Deep MLOps debugging across Windows/Linux/Colab |
+| [Hospital-Resident Matching](https://github.com/JananiV3010/hospital-resident-matching) | Gale-Shapley stable matching algorithm for NRMP residency allocation | O(n²) guaranteed stability · hackathon project |
 
 ---
 
-## 📈 Currently
+## Currently
 
 - Coursework: Advanced Data Science for BME · Deep Learning for Medical Imaging · Fundamentals of Product Management
-- Building: Synpipe — containerized ML pipeline for synaptic segmentation
+- Building: Synpipe: containerized ML pipeline for synaptic segmentation
 
 ---
 
