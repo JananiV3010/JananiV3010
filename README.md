@@ -10,8 +10,8 @@ Building AI systems at the intersection of deep learning, medical imaging, and c
 I am a BME graduate student with a background that spans **biomedical engineering**, **clinical psychology**, and **3+ years in scientific data systems**. My work focuses on making AI practical and interpretable in healthcare from automated synapse detection pipelines to deep learning-based vector surveillance for global health.
 
 - Previously: Scientific Application Analyst (ELN systems, pre-clinical research)
-- Currently: MS BME @ JHU | Deep Learning for Medical Imaging, MLOps, AI Project & Product Management
-- Looking for: Medical Imaging AI · ML Engineering · AI Project & Product Management roles
+- Currently: MS BME @ JHU | Computational Medicine, AI in Medicine, Biomedical Data Science, AI Project & Product Management
+- Looking for: Medical Imaging AI · ML Engineering · Data Science & Data Analysis · Healthcare Consulting · AI Project & Product Management roles
 - Baltimore, MD → Open to Relocation
 
 ---
